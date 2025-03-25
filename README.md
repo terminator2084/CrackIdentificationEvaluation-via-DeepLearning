@@ -1,5 +1,5 @@
 ## (Coming on the way ... ...)
-## The paper is still under review, and the benchmark codes will be disclosed when needed. Anyone who are intrested in can leave me a message via Github or Email below. 
+## The paper is under publish in Vol. 35 No. 1 2025, and the benchmark codes will be disclosed when it is all ready. Anyone who are intrested in can leave me a message via Github or Email below. 
 
 
 
